@@ -1,3 +1,3 @@
-console.error("please re-insert card")
-console.warn("are you sure you want to withdraw money?")
-console.log("user withdrew money")
+console.error("Please re-insert card")
+console.warn("Are you sure you want to withdraw money?")
+console.log("User withdrew money")
